@@ -2,6 +2,7 @@
 Prediction Analysis in Python on Insurance
 
 Techniques perfomed
+
 1.EDA
 
 2.Feature Engineering
